@@ -1,14 +1,14 @@
 [
     {
         "name":"Matrix",
-        "density":".:oOB@",
+        "density":"  .:oOB@",
         "fgColor":"#00ff00",
         "bgColor":"#000000",
         "fgColorType":-1
     },
     {
         "name":"Funky",
-        "density":"oO",
+        "density":"   oO",
         "fgColor":"#00ff00",
         "bgColor":"#ff0000",
         "fgColorType":-1
