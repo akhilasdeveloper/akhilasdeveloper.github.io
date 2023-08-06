@@ -4,13 +4,13 @@
         "density":".:oOB@",
         "fgColor":"#00ff00",
         "bgColor":"#000000",
-        "fgColorType":1
+        "fgColorType":-1
     },
     {
         "name":"Funky",
         "density":"oO",
         "fgColor":"#00ff00",
         "bgColor":"#ff0000",
-        "fgColorType":1
+        "fgColorType":-1
     }
 ]
