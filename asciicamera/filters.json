@@ -2,36 +2,15 @@
     {
         "name":"Matrix",
         "density":".:oOB@",
-        "fgColor":-7209216,
-        "bgColor":-16777216,
+        "fgColor":"#00ff00",
+        "bgColor":"#000000",
         "fgColorType":1
     },
     {
-        "name":"Test 2",
-        "density":"dguqWR$^@%",
-        "fgColor":-1,
-        "bgColor":-16777216,
-        "fgColorType":1
-    },
-    {
-        "name":"Test 3",
-        "density":"dguyQc^@%",
-        "fgColor":-1,
-        "bgColor":-16777216,
-        "fgColorType":1
-    },
-    {
-        "name":"Test 4",
-        "density":"123123",
-        "fgColor":-16777216,
-        "bgColor":-1,
-        "fgColorType":1
-    },
-    {
-        "name":"Test 5",
-        "density":"54353",
-        "fgColor":-1,
-        "bgColor":-16777216,
+        "name":"Funky",
+        "density":"oO",
+        "fgColor":"#00ff00",
+        "bgColor":"#ff0000",
         "fgColorType":1
     }
 ]
